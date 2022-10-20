@@ -1,6 +1,12 @@
 body {
-      background-color: lavender;
+  background-color: lightblue;
 }
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
 div.container {
   text-align: center;
 }
