@@ -30,7 +30,9 @@ img {
   padding: 5px;
   width: 150px;
 }
-
+img.rounded-corners {
+  border-radius: 30px;
+}
 #footer {
   font-size: 20
 }
